@@ -187,7 +187,6 @@ Retorna el historial de mediciones de batería.
         "percent": 85,
         "health": 92,
         "status": "Discharging",
-        ...
       }
     ]
   }
